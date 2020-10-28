@@ -25,9 +25,24 @@
   color: rgb(10, 10, 10);
 }
 
+.btn-blue {
+    background-color: #6B72E1;
+    padding: 15px 20px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
 img {
   height: 300px;
   width: 300px;
+  object-fit: cover;
 }
 
 body {
@@ -45,13 +60,6 @@ h1{
 h2{
   color: rgb(10, 70, 10);
   font-size: 18px;
-}
-
-a{
-  text-decoration: none;
-  color: rgb(80, 80, 130);
-  font-family: 'Roboto', sans-serif;
-  font-size: 25px
 }
 
 a:hover{
