@@ -1,0 +1,63 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card-white {
+  background-color: white;
+  padding: 30px;
+  box-shadow:  5px 10px 30px rgba(0,0,0,0.1);
+  margin: 20px;
+}
+
+.list-inline {
+  display: inline-block;
+  list-style: none;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.icon-size-color {
+  font-size: 30px;
+  color: rgb(10, 10, 10);
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+body {
+  background-color: rgb(230, 230, 230);
+  font-family: Arial, sans-serif;
+  color: rgb(10, 10, 10);
+  font-size: 15px;
+}
+
+h1{
+  font-family: 'Architects Daughter', cursive;
+  color: rgb(20, 20, 70);
+}
+
+h2{
+  color: rgb(10, 70, 10);
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(80, 80, 130);
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px
+}
+
+a:hover{
+  color: rgb(130, 130, 130);
+}
+
+ul {
+  padding: 0px;
+}
